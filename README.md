@@ -1,5 +1,5 @@
 # TechFoxxo
-![Fox go mlem](https://data.natty.sh/blobfox-88x31.png)
+<img src="https://data.natty.sh/blobfox-88x31.png">
 
 ## Current Projects
 

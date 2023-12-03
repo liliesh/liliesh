@@ -15,12 +15,6 @@ _No active projects currently_
 <img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" width="58">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="50">
 
-
-### Languages that I'm currently Learning
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="35">
-
-
 ### Tools that I use
 <a href="https://neovim.io/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1680px-Neovim-mark.svg.png" width="50"></a>
 <a href="https://vscodium.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/VSCodium_Logo.png" width="60"></a>

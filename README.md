@@ -3,7 +3,9 @@
 
 ## Current Projects
 
-_No active projects currently_
+### Blubby
+A small cli tool that allows to download from different image boards.
+It's still in the early development phase with currently only support for e621.
 
 ## Stuff I use
 ### Dev Languages

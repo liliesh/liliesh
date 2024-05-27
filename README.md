@@ -33,7 +33,7 @@ A Minecraft Paper plugin that allows to push logs to a loki instance and have an
 ## Links
 **Fedi**: https://wetdry.world/@techfoxxo<br>
 **Website**: https://liliesh.codeberg.page<br>
-**Blog**: *Planned* <br>
+**Blog**: https://liliesh.codeberg.page/blog/<br>
 **Github**: https://github.com/liliesh<br>
 
 

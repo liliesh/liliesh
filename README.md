@@ -1,13 +1,13 @@
 # Liliesh
-Tech enjoyer, software developer and full time goofball.<br>
+Tech nerd / part-time goofball / enby (also questioning)
 
+Meowing at random times to confuse people is my ✨ passion ✨ :3c
 
-## Key Values
-- Proud about 1200h+ in DDLC (Mostly MAS mod)
-- Mostly upbeat and nice to be around
-- Likes to think out of the box
-- Always a silly goofball
-- Headpats appreciated
+When not trying to confuse people, I enjoy exploring linux related topics, work on my homelab and develop software.
+
+Occasionally I get a hyperfixation on fanfictions and books. During that time I will talk A LOT about the stuff I'm reading.
+
+Wanna know more? Check out my website! (link at the bottom)
 
 ## Current Projects
 
@@ -15,19 +15,14 @@ Tech enjoyer, software developer and full time goofball.<br>
 A small cli tool that allows to download from different image boards.
 It's still in the early development phase with currently only support for e621.
 
-### Logginator9000
-A Minecraft Paper plugin that allows to push logs to a loki instance and have an prometheus endpoint
+### Satecloud automation
+Well, Satecloud is basically my homelab. Currently I'm trying to automate a lot of things there
+
 
 ## Stuff I use
 ### Dev Languages
 **Main**: Golang, AL <br>
-**Somewhat**: Kotlin, C, Pyhton <br>
-**Learning**: Rust
-
-### Main Rig
-**Specs**: R7 5700X - 4x8GB 3200Mhz - RX 6700XT <br>
-**OS**: OpenSUSE Tumbleweed <br>
-**Main Tools**: neovim, lazygit, VSCodium, kitty
+**Sometimes**: Kotlin, C, Pyhton, Rust, VueJS <br>
 
 
 ## Links
@@ -35,7 +30,3 @@ A Minecraft Paper plugin that allows to push logs to a loki instance and have an
 **Website**: https://liliesh.codeberg.page<br>
 **Blog**: https://liliesh.codeberg.page/blog/<br>
 **Github**: https://github.com/liliesh<br>
-
-
-<hr>
-<img src="https://data.natty.sh/blobfox-88x31.png">
